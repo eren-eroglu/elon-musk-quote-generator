@@ -10,26 +10,14 @@ body {
 
 
 .elon {
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     
-    position: fixed; 
-    top: 0; 
-    left: 0; 
-      
-    /* Preserve aspet ratio */
-    min-width: 100%;
-    min-height: 100%;
     
-    background-attachment: fixed;
-  background-clip: border-box;
-  background-position: top left;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 78%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -10;
 }
 
 
