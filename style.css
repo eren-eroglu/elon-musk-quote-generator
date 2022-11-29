@@ -19,10 +19,10 @@ body {
   justify-content: center;
   align-content: center;
   align-items: center;
-  flex-direction: column;
   color: #FFFFFF; */
 text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #e90505 0px 0px 20px, #ff2d2d 0px 0px 30px, #ff2d2d 0px 0px 40px, #bb0404 0px 0px 50px, #f50000 0px 0px 75px;
 color: #FFFFFF;
+flex-direction: column !important;
 }
   #quote {
     height: 20%;
